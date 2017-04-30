@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/catha/Desktop/GAME/SaveThePrince - Copy (8)/Assets/Scenes/scene2_Level1Playing.unity
+  isLoaded: 1
+  isActive: 1
